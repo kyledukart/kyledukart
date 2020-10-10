@@ -1,0 +1,16 @@
+{
+"companyName": "Kyle Dukart",
+"productName": "MP1",
+"productVersion": "0.1",
+"dataUrl": "mp1 webgl.data.unityweb",
+"wasmCodeUrl": "mp1 webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "mp1 webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
